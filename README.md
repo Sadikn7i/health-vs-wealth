@@ -1,5 +1,5 @@
 Health vs Wealth: Predicting GNI from Life Expectancy using Random Forest
-This project explores the connection between national health outcomes and economic prosperity by using a Random Forest regression model to predict Gross National Income (GNI) per capita from life expectancy data. It focuses on how well a single health indicator—life expectancy can explain variations in income across countries.
+This project explores the connection between national health outcomes and economic prosperity by using a Random Forest regression model to predict Gross National Income (GNI) per capita from life expectancy data. It focuses on how well a single health indicator, life expectancy, can explain variations in income across countries.
 
 ***Key Insights
 The model confirms a strong and measurable link between health and wealth, particularly for low to middle-income countries. On the left side of the prediction plot, where actual GNI is below approximately $40,000, the predicted values closely follow the perfect prediction line. This tight clustering indicates that the model performs exceptionally well for countries within this income bracket.
